@@ -25,3 +25,14 @@ Colour Change
 
 <img width="1470" alt="Screenshot 2023-09-26 at 5 38 23 PM" src="https://github.com/fjangda7/fjangda7.github.io/assets/59586270/1d6ddbe5-ed3b-4348-8cd7-c4fd4ea0e861">
 
+
+# Activity 4
+
+Repo
+
+<img width="922" alt="Screenshot 2023-09-26 at 6 32 30 PM" src="https://github.com/fjangda7/fjangda7.github.io/assets/59586270/5311cdda-30e9-4900-84fc-8afa81ad8bbe">
+
+Places Travelled
+
+<img width="1470" alt="Screenshot 2023-09-26 at 6 31 30 PM" src="https://github.com/fjangda7/fjangda7.github.io/assets/59586270/90f22eb7-7e01-4967-aea8-d4149fb52274">
+
