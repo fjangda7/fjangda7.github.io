@@ -14,3 +14,14 @@ Repo
 Homepage of website
 
 <img width="1470" alt="Screenshot 2023-09-26 at 5 11 12 PM" src="https://github.com/fjangda7/fjangda7.github.io/assets/59586270/b5a9c44d-a296-41b5-b65f-b1f881bce781">
+
+# Activity 3
+
+Repo
+
+<img width="922" alt="Screenshot 2023-09-26 at 5 20 04 PM" src="https://github.com/fjangda7/fjangda7.github.io/assets/59586270/7342d2b1-903d-49bc-b226-135bfcd6487c">
+
+Colour Change
+
+<img width="1470" alt="Screenshot 2023-09-26 at 5 38 23 PM" src="https://github.com/fjangda7/fjangda7.github.io/assets/59586270/1d6ddbe5-ed3b-4348-8cd7-c4fd4ea0e861">
+
